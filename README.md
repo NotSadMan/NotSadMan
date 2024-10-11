@@ -1,16 +1,25 @@
-## Hi there 👋
+# Приветствую!
 
+## 🚀 Мои Основные Интересы
+
+- **Информационная безопасность**
+- **Python**
+- **Rust**
+
+## 📂 Репозитории
 <!--
-**NotSadMan/NotSadMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡️ Проекты по Информационной Безопасности
+- [ProjectName1](https://github.com/your-username/ProjectName1): Краткое описание проекта, его цели и использование.
+- [ProjectName2](https://github.com/your-username/ProjectName2): Краткое описание проекта, его цели и использование.
 
-Here are some ideas to get you started:
+### 🐍 Python Проекты
+- [PythonTool1](https://github.com/your-username/PythonTool1): Скрипт или проект на Python, решающий определенную задачу.
+- [PythonTool2](https://github.com/your-username/PythonTool2): Другой интересный проект на Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🦀 Rust Проекты
+- [RustExperiment1](https://github.com/your-username/RustExperiment1): Проект для изучения возможностей Rust.
+- [RustExperiment2](https://github.com/your-username/RustExperiment2): Дальнейшие эксперименты с Rust.
+ -->
+## 📫 Контакты
+
+- **Telegram**: [@NotSadMan](https://t.me/NotSadMan)
